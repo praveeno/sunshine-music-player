@@ -8,8 +8,26 @@
     },
     {
       "title": "Adiyogi",
-      "pic": "",
+      "pic": "https://images.sadhguru.org/sites/default/files/media_files/adiyogi_2.jpg",
       "id": 2,
+      "music_link": ""
+    },
+    {
+      "title": "Kal Ho Naa Ho",
+      "pic": "https://lh3.googleusercontent.com/proxy/k79AjDNWMVq6TqyIhHHkzTQ44YtSM0yhvLkJB57r_Yi80a7r3cxgw95NLPQvsnGFIxay3AVHwDlJ4JH8zdNS23n9OkQ8gQ",
+      "id": 3,
+      "music_link": ""
+    },
+    {
+      "title": "believer",
+      "pic": "https://i.ytimg.com/vi/W0DM5lcj6mw/hqdefault.jpg",
+      "id": 4,
+      "music_link": ""
+    },
+    {
+      "title": "demons imagine dragons",
+      "pic": "https://images.genius.com/f505234629c96e699d905f231080ac6d.1000x1000x1.jpg",
+      "id": 5,
       "music_link": ""
     }
   ]
